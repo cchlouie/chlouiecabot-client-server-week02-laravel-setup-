@@ -242,4 +242,4 @@ Otwell, T. (2024). *Laravel: The PHP framework for web artisans*. https://larave
 
 ---
 
-*© 2025 Chlouie Cabot — ITST 302 Client-Server Technologies, BSIT 3C*
+*© 2026 Chlouie Cabot — ITST 302 Client-Server Technologies, BSIT 3C*
